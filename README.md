@@ -1,6 +1,6 @@
 # Hi, I'm Rishi Prakash Soni 👋
 
-I'm a passionate **Frontend Developer** with 2+ years of experience in building responsive, scalable web applications. I specialize in **JavaScript (ES6+)**, **React.js**, **Node.js**, and other modern web technologies.
+I'm a passionate **Web Developer** with 3 years of experience in building responsive, scalable web applications. I specialize in **JavaScript (ES6+)**, **React.js**, **Node.js**, and other modern web technologies.
 
 ## 🚀 Skills
 
